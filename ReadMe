@@ -1,0 +1,4 @@
+This project is for the game Hexapawn.
+In this game you play on a 3x3 (or NxN) chess board with only pawns.
+The pieces move like in chess.
+The goal is to reach the other player's baseline or don't leave the other player any possible move.
